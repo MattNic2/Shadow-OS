@@ -129,9 +129,9 @@ public class Shadow {
 
         //wipe RAM and CPU text files
         PrintStream ramFile = new PrintStream(new File("RAM.txt"));
-        ramFile.println();
+        ramFile.print("");
         PrintStream cpuFile = new PrintStream(new File("CPU.txt"));
-        cpuFile.println();
+        cpuFile.print("");
     }
 
     public void osExplanation(){
