@@ -20,3 +20,4 @@ wanted to focus on security. The operating system consists of the following feat
   
 # Tails OS intro Screen
 
+![image](https://user-images.githubusercontent.com/59908789/117769864-19022780-b1e9-11eb-886e-ba1938247d30.png)
